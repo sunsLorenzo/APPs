@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Xpad
+Comment=xpad
+Exec= /home/sun/Documents/APPs/Xpad/run.sh
+Icon=/home/sun/Documents/APPs/Xpad/icon.png
+Categories=Application;
+Version=0.1
+Type=Application
+Terminal=false
